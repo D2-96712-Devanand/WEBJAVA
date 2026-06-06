@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Users\devbu\OneDrive\Desktop\Advanced computing\Assignments\web java\Assignment 1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4075640152.index
-3957612877.index
-1242325331.index
-1859966512.index
-3222976853.index
-3378804629.index
-3620698151.index
