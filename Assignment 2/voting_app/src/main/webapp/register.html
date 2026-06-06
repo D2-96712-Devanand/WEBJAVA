@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>User Registration</title>
+</head>
+<body>
+    <h2>Voter Registration</h2>
+    <!-- Form posts data to the RegistrationServlet -->
+    <form action="RegisterServlet" method="POST">
+        <label>Full Name:</label><br>
+        <input type="text" name="username" required><br><br>
+        
+        <label>Email Address:</label><br>
+        <input type="email" name="email" required><br><br>
+        
+        <label>Password:</label><br>
+        <input type="password" name="password" required><br><br>
+        
+        <input type="submit" value="Register Now">
+    </form>
+</body>
+</html>

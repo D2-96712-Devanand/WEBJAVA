@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Voting System - Login</title>
+</head>
+<body>
+    <h2>Administrative & Voter Login</h2>
+    <!-- The action attribute matches the mapping of your LoginServlet -->
+    <form action="LoginServlet" method="POST">
+        <label>Email Address:</label><br>
+        <input type="email" name="email" required><br><br>
+        
+        <label>Password:</label><br>
+        <input type="password" name="password" required><br><br>
+        
+        <input type="submit" value="Log In">
+    </form>
+    <br>
+    <p>New voter? <a href="register.html">Register here</a></p>
+</body>
+</html>
